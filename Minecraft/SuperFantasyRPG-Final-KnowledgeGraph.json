@@ -1,0 +1,302 @@
+{
+  "name": "SuperFantasyRPG-Final",
+  "version": "1.0.0",
+  "minecraft": "1.20.1",
+  "forge": "47.4.22",
+  "total_mods": 162,
+  "categories": {
+    "Fondasi & Library": {
+      "mods": [
+        "architectury",
+        "balm",
+        "blueprint",
+        "Bookshelf",
+        "CarbonConfig",
+        "CerbonsAPI",
+        "cloth-config",
+        "Connector",
+        "coroutil",
+        "CreativeCore",
+        "cristellib",
+        "croaklib",
+        "curios",
+        "delightlib",
+        "fabric-api",
+        "fzzy_config",
+        "geckolib",
+        "azurelib-neo",
+        "gnetum",
+        "irons_lib",
+        "ixeris",
+        "jamlib",
+        "jauml",
+        "JinxedLib",
+        "kotlinforforge",
+        "libraryferret",
+        "lionfishapi",
+        "lithostitched",
+        "MaFgLib",
+        "monolib",
+        "moonlight",
+        "obscure-api",
+        "Placebo",
+        "player-animation-lib",
+        "PuzzlesLib",
+        "resourcefulconfig",
+        "Searchables",
+        "supermartijn642configlib",
+        "yet_another_config_lib_v3"
+      ],
+      "count": 40
+    },
+    "Performance": {
+      "mods": [
+        "embeddium",
+        "oculus",
+        "radium",
+        "noisium",
+        "ferritecore",
+        "entityculling",
+        "immersive-optimization",
+        "Fastload-Reforged",
+        "dynamic-fps",
+        "modernfix",
+        "mobtimizations",
+        "GlitchCore",
+        "notenoughcrashes",
+        "Chunk-Pregenerator",
+        "Chunky"
+      ],
+      "count": 16
+    },
+    "World Generation": {
+      "mods": [
+        "BiomesOPlenty",
+        "Terralith",
+        "DynamicTreesTerralith",
+        "Incendium",
+        "endergetic",
+        "deeperdarker",
+        "TerraBlender",
+        "Geophilic",
+        "aquamirae",
+        "deeper-oceans",
+        "wonderoussea",
+        "DynamicTrees",
+        "DynamicTrees BOP",
+        "DynamicTrees Plus"
+      ],
+      "count": 14
+    },
+    "Struktur & Dungeon": {
+      "mods": [
+        "DungeonsArise",
+        "awesomedungeonocean",
+        "katters-structures",
+        "little-structures",
+        "moogs_structure_lib",
+        "ATi Structures",
+        "create-structures",
+        "explorations",
+        "YungsApi",
+        "ExplorersCompass",
+        "waystones",
+        "Towns-and-Towers",
+        "bettervillage"
+      ],
+      "count": 13
+    },
+    "Mob, Boss & Enemy": {
+      "mods": [
+        "iceandfire",
+        "L_Enders_Cataclysm",
+        "alexsmobs",
+        "alexscaves",
+        "mowziesmobs",
+        "citadel",
+        "enemyexpansion",
+        "illageandspillagerespillaged",
+        "illager_additions",
+        "born_in_chaos_[Forge]",
+        "benssharks",
+        "nyfsspiders",
+        "realmrpg_skeletons",
+        "AutoLeveling"
+      ],
+      "count": 15
+    },
+    "Combat & RPG": {
+      "mods": [
+        "epic-fight",
+        "bettercombat",
+        "EpicFight x Curios Compat",
+        "bc_ef_compat",
+        "simplyswords",
+        "Epic-Knights",
+        "itemphysicguns",
+        "ItemPhysic",
+        "Apotheosis",
+        "ApothicAttributes",
+        "AttributeFix",
+        "PassiveSkillTree",
+        "rpg_attribute_system",
+        "notenoughexperience",
+        "EnchantingInfuser",
+        "EnchantmentDescriptions",
+        "MoreEnchantments",
+        "extra_enchantments",
+        "ultimate_enchantment",
+        "disenchanting_table"
+      ],
+      "count": 21
+    },
+    "Magic": {
+      "mods": [
+        "irons_spellbooks",
+        "cataclysm_spellbooks",
+        "ias_spellbooks",
+        "spells_gone_wrong",
+        "gtbcs_spell_lib",
+        "celestisynth"
+      ],
+      "count": 6
+    },
+    "Ocean / Diving": {
+      "mods": [
+        "aquamirae",
+        "deeper-oceans",
+        "wonderoussea",
+        "oceansdelight",
+        "scuba_gear",
+        "cfm-forge"
+      ],
+      "count": 6
+    },
+    "Farming & Survival": {
+      "mods": [
+        "FarmersDelight",
+        "moredelight",
+        "chefsdelight",
+        "ends_delight",
+        "oceansdelight",
+        "3d_placeable_food",
+        "smarterfarmers",
+        "rightclickharvest",
+        "appleskin",
+        "primitivestart",
+        "notreepunching",
+        "Icarus",
+        "nyctophobia",
+        "dynamic-torches"
+      ],
+      "count": 15
+    },
+    "Storage & Utility": {
+      "mods": [
+        "sophisticatedbackpacks",
+        "sophisticatedcore",
+        "travelersbackpack",
+        "Jade",
+        "PickUpNotifier",
+        "FastSuite",
+        "common-networking",
+        "ftb-library",
+        "ftb-quests",
+        "ftb-teams",
+        "mcaquests"
+      ],
+      "count": 11
+    },
+    "NPC & Social": {
+      "mods": [
+        "minecraft-comes-alive",
+        "mcaquests",
+        "bettervillage",
+        "Towns-and-Towers"
+      ],
+      "count": 4
+    },
+    "UI / QoL": {
+      "mods": [
+        "jei",
+        "SimplyTooltips",
+        "EnhancedVisuals",
+        "chatanimation",
+        "notenoughanimations",
+        "ShoulderSurfing",
+        "WI-Zoom",
+        "okzoomer",
+        "traveloptics",
+        "zergatul.freecam",
+        "xaerominimap",
+        "xaeroworldmap",
+        "NoChatReports",
+        "nomusicpause",
+        "e4mc",
+        "AmbientSounds"
+      ],
+      "count": 17
+    },
+    "Compat & Bridge": {
+      "mods": [
+        "efcompat",
+        "bc_ef_compat",
+        "citresewn",
+        "continuity",
+        "entity_model_features",
+        "entity_texture_features",
+        "fusion",
+        "totw_modded",
+        "lukis-grand-capitals"
+      ],
+      "count": 9
+    },
+    "Create": {
+      "mods": [
+        "create",
+        "create-structures"
+      ],
+      "count": 2
+    }
+  },
+  "conflicts": {
+    "epic_fight_vs_better_combat": {
+      "status": "managed",
+      "decision": "Epic Fight dipilih sebagai overhaul combat utama, Better Combat dihapus",
+      "compatibility_layer": "EpicFight x Curios Compat / bc_ef_compat teridentifikasi",
+      "note": "Keduanya merupakan combat overhaul, namun dipilih yang ringan untuk stabilitas"
+    },
+    "apotheosis_vs_rpg_attributes": {
+      "status": "retained",
+      "overlap": [
+        "ApothicAttributes",
+        "rpg_attribute_system",
+        "PassiveSkillTree",
+        "AttributeFix"
+      ],
+      "decision": "Keduanya dinyatakan, overlap dipantau, tidak dihapus salah satunya",
+      "note": "Kedua-dua sistem menawarkan progression ARPG-style, monitoring diperlukan"
+    }
+  },
+  "removed_mods": {
+    "count": 9,
+    "mods": [
+      "ItemProductionLib-1.0.2a",
+      "Forgematica",
+      "Mekanism",
+      "SecurityCraft",
+      "immersive_aircraft",
+      "simpleplanes",
+      "seamoths",
+      "smallships",
+      "subnauticraft"
+    ],
+    "reason": "Terlarang/ditrim karena: duplicate, terlalu modern/sci-fi, atau tidak relevan fantasy RPG"
+  },
+  "validation": {
+    "minecraft_version": "1.20.1",
+    "loader": "Forge 47.4.22",
+    "duplicate_files": "None detected",
+    "dependency_status": "All main dependencies from source document included"
+  }
+}

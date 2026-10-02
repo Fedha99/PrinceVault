@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "d72e87d197d3af40",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e4de94fd437b9ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9b212d1c4f29585",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b423a6a414e771f",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcee2028be3f4008",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90c66305d1278fa2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b9717661d7f0081c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "685822c5311e2190",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ae954e86361ce157",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cb4de7b189306c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1ec64c6b1c8b131",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MikroTik/Checklist Domain Masjidku - Multi Subdomain.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d24b22d734e1dbc4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "2bf510c8a5cb9463",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "90fa860c237e44a4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "95d6e5060233bc4b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MikroTik/Project Baru - Web Integrasi MikroTik RADIUS Zabbix.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "90c66305d1278fa2",
+  "lastOpenFiles": [
+    "Personal/Observasi Graph View 2026-10-02.md",
+    "MikroTik/Project Baru - Web Integrasi MikroTik RADIUS Zabbix.md",
+    "MikroTik/Status Check - Struktur WP dan HTTP 2026-10-01.md",
+    "Checklist Import Masjid-Zip ke cPanel.md",
+    "Master Index.md",
+    "Cybersecurity/HTB Archetype.md",
+    "Cybersecurity/Tool Chaining Alur Umum.md",
+    "MikroTik/Perbandingan Local vs Remote 2026-10-01.md",
+    "Tecotechno/SOP Editorial Tecotechno.md",
+    "Tecotechno/Index - Tecotechno.md",
+    "Tecotechno/Artikel Perbandingan AI.md",
+    "Tecotechno/Artikel MTCNA Pillar.md",
+    "Tecotechno/Artikel Linux dan Ricing.md",
+    "Personal/Tabungan Rakit PC - Checklist.md",
+    "Personal/Profil Prince.md",
+    "Personal/Komunitas dan Portofolio.md",
+    "Personal/Index - Personal.md",
+    "Personal/Arah Karir.md",
+    "Minecraft/SuperFantasyRPG-Final-Summary.md",
+    "Minecraft/SuperFantasyRPG-Final-Build-Report.md",
+    "Minecraft/SuperFantasyRPG - Questline Draft.md",
+    "Minecraft/SuperFantasyRPG - Mod List & Konsep.md",
+    "Minecraft/Performance Modpack.md",
+    "Minecraft/Modpack Forge 1.20.1 Overview.md",
+    "Minecraft/MLBB Argus.md",
+    "Minecraft/Index - Minecraft.md",
+    "Untitled.canvas",
+    "MikroTik/Mapping DB Code ke Subdomain.md.eaf3ca128a19e82654a7ecefffb0aca2.tmp",
+    "MikroTik/Checklist Domain Masjidku - Multi Subdomain.md-backup",
+    "MikroTik/Checklist Domain Masjidku - Multi Subdomain.md.bd1b2bc4f4bc89c3b2ead5d9efa861e3.tmp",
+    "Minecraft/SuperFantasyRPG-Final-KnowledgeGraph.json",
+    "MikroTik/Index - MikroTik.md.00421744cfe96cca7ed3f8d93f7fd563.tmp",
+    "Linux/NixOS Experiment.md.685fe0964c79fd9f505d7222d1ae9a8e.tmp",
+    "Cybersecurity/HTB Archetype.md.6a799798465fdd2fefca683f5ea3da3d.tmp",
+    "Minecraft/Performance Modpack.md.47c72cce95f33050b47895fcd41b63b8.tmp",
+    "Master Index.md.8a809394d7b87f58ca19aaabc9bb41b3.tmp",
+    "Personal"
+  ]
+}

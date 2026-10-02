@@ -1,0 +1,57 @@
+{
+  "toolLoading": {
+    "profile": "all",
+    "promoted": [],
+    "counters": {
+      "get_vault_overview": 1,
+      "create_vault_file": 4,
+      "find_orphaned_notes": 1,
+      "find_broken_links": 1,
+      "get_outgoing_links": 1
+    },
+    "profiles": {
+      "default": {
+        "profile": "all",
+        "promoted": [],
+        "allowed": null
+      }
+    },
+    "everCalled": {
+      "default": [
+        "get_vault_overview",
+        "create_vault_file",
+        "find_orphaned_notes",
+        "find_broken_links",
+        "get_outgoing_links"
+      ]
+    },
+    "everCalledSince": 1790830910804
+  },
+  "mcpTransport": {
+    "tokens": [
+      {
+        "id": "default",
+        "label": "Default",
+        "token": "DAYH7fanMvjgz9d5aXfBu8KxqF4dMzzlGXCb_AkG9x8",
+        "createdAt": 1790830910786
+      }
+    ],
+    "bearerToken": "DAYH7fanMvjgz9d5aXfBu8KxqF4dMzzlGXCb_AkG9x8",
+    "livePort": 27200,
+    "eraCounters": {
+      "legacy": 22,
+      "modern": 0
+    },
+    "eraCountersByToken": {
+      "default": {
+        "legacy": 22,
+        "modern": 0
+      }
+    }
+  },
+  "semanticSearch": {
+    "provider": "auto",
+    "indexingMode": "live",
+    "unloadModelWhenIdle": false
+  }
+}
