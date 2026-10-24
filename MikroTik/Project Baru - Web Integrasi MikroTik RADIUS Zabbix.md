@@ -38,3 +38,21 @@ Konsepnya: kayak bikin Winbox sendiri tapi versi terintegrasi, dan dalam bentuk 
 - [ ] Riset integrasi Laravel dengan MikroTik API (RouterOS API client untuk PHP)
 - [ ] Riset integrasi FreeRADIUS dengan Laravel/Postgres
 - [ ] Tanya detail scope ke Pak Shobi di sesi berikutnya
+
+## Roadmap belajar & pengerjaan (2026-10-02)
+
+Urutan linear, jangan loncat-loncat biar gak overwhelmed:
+
+1. **Setup environment** — install Laravel + Filament, setup PostgreSQL lokal buat dev
+2. **Belajar Laravel dasar** — paham struktur folder (routes, controllers, models) sebelum sentuh fitur apapun
+3. Pecah ke **3 jalur paralel**, validasi satu-satu secara terpisah:
+   - **Koneksi MikroTik** — lewat RouterOS API client buat PHP, target: bisa tarik data basic (interface list, resource usage) dari 1 router test
+   - **Setup FreeRADIUS** — konfigurasi pakai PostgreSQL sebagai backend, validasi auth test user lewat `radtest` dari command line dulu sebelum nyambungin ke Laravel
+   - **Integrasi Zabbix** — lewat REST API (JSON-RPC) resmi Zabbix, cek apakah credential dari pipeline Zabbix->n8n->Telegram yang lama bisa dipakai ulang
+4. **Desain schema Postgres** — baru setelah 3 koneksi di atas tervalidasi, gabungkan jadi schema: tabel router/device, tabel user RADIUS, tabel mapping ke host Zabbix
+5. **Admin panel Filament** — generate resource CRUD dari model Eloquent, mulai dari 1 resource paling simple
+6. **Build fitur bertahap** — prioritaskan fitur read-only (liat status router, user RADIUS aktif, alert Zabbix) sebelum fitur yang bisa ubah konfigurasi router dari web
+
+Catatan: sebelum mulai Laravel, pertanyaan scope ke Pak Shobi (lihat checklist "Yang masih belum jelas" di atas) sebaiknya udah dijawab dulu — terutama soal apakah project ini nyambung ke infrastruktur Zabbix yang lama atau berdiri sendiri, karena itu ngubah keputusan di step 3 dan 4.
+
+- [[Log Kerja Hermes - web-monitor]]

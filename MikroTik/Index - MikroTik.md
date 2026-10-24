@@ -22,3 +22,5 @@
 
 ---
 #mikrotik #networking #index
+
+- [[Log Kerja Hermes - web-monitor]]

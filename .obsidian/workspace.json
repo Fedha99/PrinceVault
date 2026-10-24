@@ -16,8 +16,23 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "ce45862586149b6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MikroTik/Project Baru - Web Integrasi MikroTik RADIUS Zabbix.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Project Baru - Web Integrasi MikroTik RADIUS Zabbix"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,44 +199,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "90c66305d1278fa2",
+  "active": "ce45862586149b6c",
   "lastOpenFiles": [
-    "Personal/Observasi Graph View 2026-10-02.md",
-    "MikroTik/Project Baru - Web Integrasi MikroTik RADIUS Zabbix.md",
-    "MikroTik/Status Check - Struktur WP dan HTTP 2026-10-01.md",
-    "Checklist Import Masjid-Zip ke cPanel.md",
-    "Master Index.md",
-    "Cybersecurity/HTB Archetype.md",
-    "Cybersecurity/Tool Chaining Alur Umum.md",
-    "MikroTik/Perbandingan Local vs Remote 2026-10-01.md",
-    "Tecotechno/SOP Editorial Tecotechno.md",
-    "Tecotechno/Index - Tecotechno.md",
-    "Tecotechno/Artikel Perbandingan AI.md",
-    "Tecotechno/Artikel MTCNA Pillar.md",
-    "Tecotechno/Artikel Linux dan Ricing.md",
-    "Personal/Tabungan Rakit PC - Checklist.md",
-    "Personal/Profil Prince.md",
-    "Personal/Komunitas dan Portofolio.md",
-    "Personal/Index - Personal.md",
-    "Personal/Arah Karir.md",
-    "Minecraft/SuperFantasyRPG-Final-Summary.md",
-    "Minecraft/SuperFantasyRPG-Final-Build-Report.md",
-    "Minecraft/SuperFantasyRPG - Questline Draft.md",
-    "Minecraft/SuperFantasyRPG - Mod List & Konsep.md",
-    "Minecraft/Performance Modpack.md",
-    "Minecraft/Modpack Forge 1.20.1 Overview.md",
-    "Minecraft/MLBB Argus.md",
-    "Minecraft/Index - Minecraft.md",
+    "Laptop-Battlefield/LB-Project-MCC.md",
+    "Laptop-Battlefield/LB-Service-RouterOS.md",
+    "Laptop-Battlefield/LB-Service-Zabbix.md",
+    "Laptop-Battlefield/LB-Service-MariaDB.md",
+    "Laptop-Battlefield/LB-Service-PostgreSQL.md",
+    "Laptop-Battlefield/LB-Tool-Obsidian.md",
+    "Laptop-Battlefield/LB-Tool-Hermes.md",
+    "Laptop-Battlefield/LB-Tool-CodeGraph.md",
+    "Laptop-Battlefield/LB-Tool-Docker.md",
+    "Laptop-Battlefield/Graphs/LB-Graph-Project-Toolchain.md",
+    "Laptop-Battlefield/Graphs/LB-Graph-Service-Dependencies.md",
+    "Laptop-Battlefield/Graphs/LB-Graph-Overview.md",
+    "Laptop-Battlefield/Graphs",
+    "Laptop-Battlefield/LB-Open-Questions.md",
+    "Laptop-Battlefield/LB-Refresh-Playbook.md",
+    "Laptop-Battlefield/LB-AI-Handoff.md",
+    "Laptop-Battlefield/Incidents/LB-Incident-SQLite-Driver-Missing.md",
+    "Laptop-Battlefield/Incidents/LB-Incident-Freeze-RAM-USB-SSD.md",
+    "Laptop-Battlefield/Incidents",
+    "Laptop-Battlefield/Timeline/LB-Work-Log.md",
+    "Laptop-Battlefield/Timeline",
+    "Laptop-Battlefield/Projects/LB-Project-Masjidku-WordPress.md",
+    "Laptop-Battlefield/Projects/LB-Project-GNS3-Labs.md",
+    "Laptop-Battlefield/Projects/LB-Project-Web-Monitor.md",
+    "Laptop-Battlefield/Projects/LB-Project-Monitoring-Laravel-Prototype.md",
+    "Laptop-Battlefield/Projects/LB-Project-Monitoring-Laravel-1.md",
+    "Laptop-Battlefield/Projects",
+    "Laptop-Battlefield/System/LB-AI-Agents.md",
+    "Laptop-Battlefield/System/LB-Development-Toolchain.md",
+    "Laptop-Battlefield/System/LB-Network.md",
+    "Laptop-Battlefield/System",
+    "Laptop-Battlefield",
     "Untitled.canvas",
     "MikroTik/Mapping DB Code ke Subdomain.md.eaf3ca128a19e82654a7ecefffb0aca2.tmp",
     "MikroTik/Checklist Domain Masjidku - Multi Subdomain.md-backup",
     "MikroTik/Checklist Domain Masjidku - Multi Subdomain.md.bd1b2bc4f4bc89c3b2ead5d9efa861e3.tmp",
-    "Minecraft/SuperFantasyRPG-Final-KnowledgeGraph.json",
-    "MikroTik/Index - MikroTik.md.00421744cfe96cca7ed3f8d93f7fd563.tmp",
-    "Linux/NixOS Experiment.md.685fe0964c79fd9f505d7222d1ae9a8e.tmp",
-    "Cybersecurity/HTB Archetype.md.6a799798465fdd2fefca683f5ea3da3d.tmp",
-    "Minecraft/Performance Modpack.md.47c72cce95f33050b47895fcd41b63b8.tmp",
-    "Master Index.md.8a809394d7b87f58ca19aaabc9bb41b3.tmp",
-    "Personal"
+    "Minecraft/SuperFantasyRPG-Final-KnowledgeGraph.json"
   ]
 }

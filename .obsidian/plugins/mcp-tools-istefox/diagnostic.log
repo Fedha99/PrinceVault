@@ -1,0 +1,18 @@
+{"timestamp":"2026-10-24T07:01:38.286Z","level":"INFO","message":"MCP Tools Plugin loading","fields":{"pluginVersion":"3.1.0","platform":"linux"}}
+{"timestamp":"2026-10-24T07:01:38.355Z","level":"INFO","message":"MCP Connector HTTP server listening","fields":{"port":27201,"pluginVersion":"3.1.0"}}
+{"timestamp":"2026-10-24T07:01:38.371Z","level":"INFO","message":"Hosting the shared MCP broker","fields":{"port":27200}}
+{"timestamp":"2026-10-24T07:01:38.384Z","level":"INFO","message":"Broker route registered","fields":{"brokerPort":27200,"transportPort":27201}}
+{"timestamp":"2026-10-24T07:01:38.397Z","level":"INFO","message":"semantic-search: started","fields":{"provider":"auto"}}
+{"timestamp":"2026-10-24T07:01:38.398Z","level":"INFO","message":"MCP Tools Plugin loaded","fields":{}}
+{"timestamp":"2026-10-24T07:18:56.101Z","level":"INFO","message":"mcp request","fields":{"status":405,"reason":"method_path"}}
+{"timestamp":"2026-10-24T07:19:29.487Z","level":"INFO","message":"mcp request","fields":{"status":405,"reason":"method_path"}}
+{"timestamp":"2026-10-24T07:19:29.487Z","level":"INFO","message":"mcp request","fields":{"status":405,"reason":"method_path"}}
+{"timestamp":"2026-10-24T07:19:29.538Z","level":"INFO","message":"mcp request","fields":{"status":405,"reason":"method_path"}}
+{"timestamp":"2026-10-24T07:19:29.544Z","level":"INFO","message":"mcp request","fields":{"status":405,"reason":"method_path"}}
+{"timestamp":"2026-10-24T07:19:29.805Z","level":"INFO","message":"mcp request","fields":{"status":405,"reason":"method_path"}}
+{"timestamp":"2026-10-24T07:19:29.828Z","level":"INFO","message":"mcp request","fields":{"status":405,"reason":"method_path"}}
+{"timestamp":"2026-10-24T07:19:30.108Z","level":"INFO","message":"mcp request","fields":{"status":405,"reason":"method_path"}}
+{"timestamp":"2026-10-24T07:19:30.117Z","level":"INFO","message":"mcp request","fields":{"status":405,"reason":"method_path"}}
+{"timestamp":"2026-10-24T07:20:16.062Z","level":"INFO","message":"mcp tool call","fields":{"method":"tools/call","tool":"get_vault_overview","argKeys":[],"outcome":"ok","durationMs":12,"tokenId":"default","era":"legacy"}}
+{"timestamp":"2026-10-24T07:20:19.505Z","level":"INFO","message":"mcp tool call","fields":{"method":"tools/call","tool":"list_vault_files","argKeys":[],"outcome":"ok","durationMs":4,"tokenId":"default","era":"legacy"}}
+{"timestamp":"2026-10-24T07:20:28.824Z","level":"INFO","message":"mcp tool call","fields":{"method":"tools/call","tool":"get_vault_overview","argKeys":[],"outcome":"ok","durationMs":2,"tokenId":"default","era":"legacy"}}

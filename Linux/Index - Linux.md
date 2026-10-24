@@ -9,6 +9,7 @@
 
 ## 🐧 Kernel & Benchmark
 - [[Benchmark Kernel Zen CachyOS Xanmod]]
+- [[Diagnosis Freeze RAM dan USB SSD]]
 
 ## 🎨 Ricing
 - [[Hyprland Config Lua]]

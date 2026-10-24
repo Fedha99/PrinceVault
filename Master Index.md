@@ -15,6 +15,7 @@
 - [[ThinkPad T14 Gen 2 AMD]] — arrival awal September
 - [[OJM Overview]] — ujian 2 September 2026
 - [[Modpack Forge 1.20.1 Overview]] — 200+ mods, dark fantasy
+- [[Laptop-Battlefield/Home-Laptop-Battlefield|💻 Laptop Battlefield]] — recon map of this machine
 
 ---
 *Gunakan Graph View buat liat semua koneksi antar domain.*
