@@ -16,3 +16,17 @@
 {"timestamp":"2026-10-24T07:20:16.062Z","level":"INFO","message":"mcp tool call","fields":{"method":"tools/call","tool":"get_vault_overview","argKeys":[],"outcome":"ok","durationMs":12,"tokenId":"default","era":"legacy"}}
 {"timestamp":"2026-10-24T07:20:19.505Z","level":"INFO","message":"mcp tool call","fields":{"method":"tools/call","tool":"list_vault_files","argKeys":[],"outcome":"ok","durationMs":4,"tokenId":"default","era":"legacy"}}
 {"timestamp":"2026-10-24T07:20:28.824Z","level":"INFO","message":"mcp tool call","fields":{"method":"tools/call","tool":"get_vault_overview","argKeys":[],"outcome":"ok","durationMs":2,"tokenId":"default","era":"legacy"}}
+{"timestamp":"2026-10-26T02:38:01.532Z","level":"INFO","message":"MCP Tools Plugin loading","fields":{"pluginVersion":"3.1.0","platform":"linux"}}
+{"timestamp":"2026-10-26T02:38:01.563Z","level":"INFO","message":"MCP Connector HTTP server listening","fields":{"port":27201,"pluginVersion":"3.1.0"}}
+{"timestamp":"2026-10-26T02:38:01.585Z","level":"INFO","message":"semantic-search: started","fields":{"provider":"auto"}}
+{"timestamp":"2026-10-26T02:38:01.585Z","level":"INFO","message":"MCP Tools Plugin loaded","fields":{}}
+{"timestamp":"2026-10-26T23:13:45.196Z","level":"INFO","message":"MCP Tools Plugin loading","fields":{"pluginVersion":"3.1.0","platform":"linux"}}
+{"timestamp":"2026-10-26T23:13:45.233Z","level":"INFO","message":"MCP Connector HTTP server listening","fields":{"port":27201,"pluginVersion":"3.1.0"}}
+{"timestamp":"2026-10-26T23:13:45.260Z","level":"INFO","message":"semantic-search: started","fields":{"provider":"auto"}}
+{"timestamp":"2026-10-26T23:13:45.261Z","level":"INFO","message":"MCP Tools Plugin loaded","fields":{}}
+{"timestamp":"2026-10-26T23:13:46.466Z","level":"INFO","message":"Smart Connections detected — `search_vault_smart` can use it","fields":{}}
+{"timestamp":"2026-10-27T00:09:25.224Z","level":"INFO","message":"MCP Tools Plugin loading","fields":{"pluginVersion":"3.1.0","platform":"linux"}}
+{"timestamp":"2026-10-27T00:09:25.254Z","level":"INFO","message":"MCP Connector HTTP server listening","fields":{"port":27201,"pluginVersion":"3.1.0"}}
+{"timestamp":"2026-10-27T00:09:25.280Z","level":"INFO","message":"semantic-search: started","fields":{"provider":"auto"}}
+{"timestamp":"2026-10-27T00:09:25.280Z","level":"INFO","message":"MCP Tools Plugin loaded","fields":{}}
+{"timestamp":"2026-10-27T00:09:26.281Z","level":"INFO","message":"Smart Connections detected — `search_vault_smart` can use it","fields":{}}

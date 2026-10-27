@@ -9,6 +9,7 @@
 - [[Artikel MTCNA Pillar]]
 - [[Artikel Linux dan Ricing]]
 - [[Artikel Perbandingan AI]]
+- [[Index - Tecotechno Knowledge]]
 
 ---
 #tecotechno #blog #index

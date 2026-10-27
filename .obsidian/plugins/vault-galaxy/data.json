@@ -1,0 +1,26 @@
+{
+  "opened": true,
+  "settings": {
+    "coreRules": "",
+    "hubRules": "",
+    "archiveFolders": "",
+    "folderGroups": "",
+    "mode": "galaxy",
+    "tilt": "tilt",
+    "idleSpin": true,
+    "nodeStyle": "disc",
+    "corona": true,
+    "coronaStrength": 2.15,
+    "gravity": 1.8,
+    "bounciness": 1,
+    "speed": 1,
+    "arms": 6,
+    "nodeSize": 0.75,
+    "sunLabels": false,
+    "labelZoom": 3,
+    "glow": 0.4,
+    "linkWidth": 1.4,
+    "linkAlpha": 3,
+    "colors": {}
+  }
+}

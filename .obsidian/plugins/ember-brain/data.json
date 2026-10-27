@@ -1,0 +1,1035 @@
+{
+  "rootFolder": "",
+  "groupColors": "",
+  "introSeconds": 14,
+  "useHeatProperty": true,
+  "writeHeatProperty": false,
+  "history": {
+    "Tecotechno/Knowledge/Index - Tecotechno Knowledge.md": {
+      "mtime": 1792987058994,
+      "updates": [
+        1792987058994
+      ]
+    },
+    "Tecotechno/Knowledge/TT - 7 Kesalahan Fatal Pakai AI Programmer.md": {
+      "mtime": 1792986919896,
+      "updates": [
+        1792986919896
+      ]
+    },
+    "Tecotechno/Knowledge/TT - ACP Protocol 10 Fakta.md": {
+      "mtime": 1792986919896,
+      "updates": [
+        1792986919896
+      ]
+    },
+    "Tecotechno/Knowledge/TT - 7 Lapisan OSI 7 Layers.md": {
+      "mtime": 1792986919896,
+      "updates": [
+        1792986919896
+      ]
+    },
+    "Tecotechno/Knowledge/TT - Authentication 7 Dangerous Mistakes.md": {
+      "mtime": 1792986919896,
+      "updates": [
+        1792986919896
+      ]
+    },
+    "Tecotechno/Knowledge/TT - 7 Rahasia Docker Developer Ketagihan.md": {
+      "mtime": 1792986919896,
+      "updates": [
+        1792986919896
+      ]
+    },
+    "Tecotechno/Knowledge/TT - 7 Perbedaan Docker Image Container Volume.md": {
+      "mtime": 1792986919896,
+      "updates": [
+        1792986919896
+      ]
+    },
+    "Tecotechno/Knowledge/TT - Cisco Guide 10 Langkah Dasar.md": {
+      "mtime": 1792986919896,
+      "updates": [
+        1792986919896
+      ]
+    },
+    "Tecotechno/Knowledge/TT - RIP Networking Guide 7 Panduan.md": {
+      "mtime": 1792986919896,
+      "updates": [
+        1792986919896
+      ]
+    },
+    "Tecotechno/Knowledge/TT - Routing OSPF GNS3 MikroTik.md": {
+      "mtime": 1792986919896,
+      "updates": [
+        1792986919896
+      ]
+    },
+    "Tecotechno/Knowledge/TT - Grub Rescue 9 Cara Mengatasi.md": {
+      "mtime": 1792986837130,
+      "updates": [
+        1792986837130
+      ]
+    },
+    "Tecotechno/Knowledge/TT - Ventoy Linux Installation 7 Langkah.md": {
+      "mtime": 1792986837130,
+      "updates": [
+        1792986837130
+      ]
+    },
+    "Tecotechno/Knowledge/TT - Solving Problem IP Konflik.md": {
+      "mtime": 1792986837130,
+      "updates": [
+        1792986837130
+      ]
+    },
+    "Tecotechno/Knowledge/TT - Problem Hotspot MikroTik 5 Cara.md": {
+      "mtime": 1792986837130,
+      "updates": [
+        1792986837130
+      ]
+    },
+    "Tecotechno/Knowledge/TT - Amankan Router MikroTik 7 Cara.md": {
+      "mtime": 1792986837129,
+      "updates": [
+        1792986837129
+      ]
+    },
+    "Tecotechno/Knowledge/TT - Routing MikroTik CHR Static Routing.md": {
+      "mtime": 1792986837129,
+      "updates": [
+        1792986837129
+      ]
+    },
+    "Tecotechno/Knowledge/TT - Pelajari GNS3 7 Hal Penting.md": {
+      "mtime": 1792986837129,
+      "updates": [
+        1792986837129
+      ]
+    },
+    "Tecotechno/Knowledge/TT - GNS3 Linux Tutorial 5 Langkah.md": {
+      "mtime": 1792986837129,
+      "updates": [
+        1792986837129
+      ]
+    },
+    "Tecotechno/Knowledge/TT - Manajemen Bandwidth MikroTik 6 Trik.md": {
+      "mtime": 1792986837129,
+      "updates": [
+        1792986837129
+      ]
+    },
+    "Tecotechno/Knowledge/TT - Zabbix Setup Mudah 5 Langkah.md": {
+      "mtime": 1792986837129,
+      "updates": [
+        1792986837129
+      ]
+    },
+    "Tecotechno/Knowledge/TT - Zabbix Security Setup 6 Cara.md": {
+      "mtime": 1792986837129,
+      "updates": [
+        1792986837129
+      ]
+    },
+    "Tecotechno/Knowledge/TT - Zabbix MikroTik Monitoring 5 Langkah.md": {
+      "mtime": 1792986837129,
+      "updates": [
+        1792986837129
+      ]
+    },
+    "Tecotechno/Knowledge/TT - Zabbix MikroTik Traffic Monitoring.md": {
+      "mtime": 1792986837129,
+      "updates": [
+        1792986837129
+      ]
+    },
+    "Tecotechno/Knowledge/TT - Setup Mikrotik Wifi 7 Rahasia.md": {
+      "mtime": 1792986837129,
+      "updates": [
+        1792986837129
+      ]
+    },
+    "Tecotechno/Knowledge/TT - Apa Itu MikroTik 10 Cara Belajar.md": {
+      "mtime": 1792986733705,
+      "updates": [
+        1792986733705
+      ]
+    },
+    "Tecotechno/Knowledge/TT - Waspada CSRF 5 Cara Mitigasi.md": {
+      "mtime": 1792986733705,
+      "updates": [
+        1792986733705
+      ]
+    },
+    "Tecotechno/Knowledge/TT - Konfigurasi DHCP Server MikroTik.md": {
+      "mtime": 1792986733705,
+      "updates": [
+        1792986733705
+      ]
+    },
+    "Tecotechno/Knowledge/TT - Netinstall CLI Linux MikroTik.md": {
+      "mtime": 1792986733705,
+      "updates": [
+        1792986733705
+      ]
+    },
+    "Tecotechno/Knowledge/TT - Cara Konfigurasi VLAN MikroTik.md": {
+      "mtime": 1792986733705,
+      "updates": [
+        1792986733705
+      ]
+    },
+    "Tecotechno/Knowledge/TT - 4 Cara Folder Private Windows.md": {
+      "mtime": 1792986733705,
+      "updates": [
+        1792986733705
+      ]
+    },
+    "Tecotechno/Knowledge/TT - 3 Cara Optimasi Firefox.md": {
+      "mtime": 1792986733705,
+      "updates": [
+        1792986733705
+      ]
+    },
+    "Tecotechno/Knowledge/TT - Tutorial Mouse Without Borders.md": {
+      "mtime": 1792986733705,
+      "updates": [
+        1792986733705
+      ]
+    },
+    "Tecotechno/Knowledge/TT - 4 Cara Menggunakan Bitwarden.md": {
+      "mtime": 1792986733705,
+      "updates": [
+        1792986733705
+      ]
+    },
+    "Tecotechno/Knowledge/TT - Perintah Dasar MikroTik.md": {
+      "mtime": 1792986733704,
+      "updates": [
+        1792986733704
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/VPCS.md": {
+      "mtime": 1792987039992,
+      "updates": [
+        1792987039992
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/Dynamips.md": {
+      "mtime": 1792987039992,
+      "updates": [
+        1792987039992
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/Low-Level Discovery.md": {
+      "mtime": 1792987039992,
+      "updates": [
+        1792987039992
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/QEMU.md": {
+      "mtime": 1792987039992,
+      "updates": [
+        1792987039992
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/KVM.md": {
+      "mtime": 1792987039992,
+      "updates": [
+        1792987039992
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/Credential Stuffing.md": {
+      "mtime": 1792987039992,
+      "updates": [
+        1792987039992
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/Passkeys.md": {
+      "mtime": 1792987039992,
+      "updates": [
+        1792987039992
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/Zero Trust.md": {
+      "mtime": 1792987039991,
+      "updates": [
+        1792987039991
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/Link State.md": {
+      "mtime": 1792987039991,
+      "updates": [
+        1792987039991
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/Distance Vector.md": {
+      "mtime": 1792987039991,
+      "updates": [
+        1792987039991
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/OSI vs TCP-IP.md": {
+      "mtime": 1792987039991,
+      "updates": [
+        1792987039991
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/The Dude.md": {
+      "mtime": 1792987039991,
+      "updates": [
+        1792987039991
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/Wine.md": {
+      "mtime": 1792987039991,
+      "updates": [
+        1792987039991
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/NTFS Permissions.md": {
+      "mtime": 1792987039991,
+      "updates": [
+        1792987039991
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/Firefox.md": {
+      "mtime": 1792987039991,
+      "updates": [
+        1792987039991
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/Mouse Without Borders.md": {
+      "mtime": 1792987039991,
+      "updates": [
+        1792987039991
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/GRUB.md": {
+      "mtime": 1792987039991,
+      "updates": [
+        1792987039991
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/Ventoy.md": {
+      "mtime": 1792987039991,
+      "updates": [
+        1792987039991
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/PRD.md": {
+      "mtime": 1792987039991,
+      "updates": [
+        1792987039991
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/ACP Protocol.md": {
+      "mtime": 1792987039991,
+      "updates": [
+        1792987039991
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/OSI Model.md": {
+      "mtime": 1792987039991,
+      "updates": [
+        1792987039991
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/Authentication.md": {
+      "mtime": 1792987039990,
+      "updates": [
+        1792987039990
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/CSRF.md": {
+      "mtime": 1792987039990,
+      "updates": [
+        1792987039990
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/Bitwarden.md": {
+      "mtime": 1792987039990,
+      "updates": [
+        1792987039990
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/Cisco IOS.md": {
+      "mtime": 1792987039990,
+      "updates": [
+        1792987039990
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/RIP.md": {
+      "mtime": 1792987039990,
+      "updates": [
+        1792987039990
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/OSPF.md": {
+      "mtime": 1792987039990,
+      "updates": [
+        1792987039990
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/ARP Reply-Only.md": {
+      "mtime": 1792987039990,
+      "updates": [
+        1792987039990
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/Hotspot MikroTik.md": {
+      "mtime": 1792987039990,
+      "updates": [
+        1792987039990
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/CAPsMAN.md": {
+      "mtime": 1792987039990,
+      "updates": [
+        1792987039990
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/Simple Queue.md": {
+      "mtime": 1792987039990,
+      "updates": [
+        1792987039990
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/Firewall MikroTik.md": {
+      "mtime": 1792987039990,
+      "updates": [
+        1792987039990
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/DHCP Server.md": {
+      "mtime": 1792987039990,
+      "updates": [
+        1792987039990
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/VLAN.md": {
+      "mtime": 1792987039990,
+      "updates": [
+        1792987039990
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/Docker.md": {
+      "mtime": 1792987039990,
+      "updates": [
+        1792987039990
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/SNMP.md": {
+      "mtime": 1792987039989,
+      "updates": [
+        1792987039989
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/Zabbix.md": {
+      "mtime": 1792987039989,
+      "updates": [
+        1792987039989
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/GNS3.md": {
+      "mtime": 1792987039989,
+      "updates": [
+        1792987039989
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/CHR.md": {
+      "mtime": 1792987039989,
+      "updates": [
+        1792987039989
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/MTCNA.md": {
+      "mtime": 1792987039989,
+      "updates": [
+        1792987039989
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/Winbox.md": {
+      "mtime": 1792987039989,
+      "updates": [
+        1792987039989
+      ]
+    },
+    "Tecotechno/Knowledge/Konsep/RouterOS.md": {
+      "mtime": 1792987039989,
+      "updates": [
+        1792987039989
+      ]
+    },
+    "Tecotechno/SOP Editorial Tecotechno.md": {
+      "mtime": 1792982171467,
+      "updates": [
+        1792982171467
+      ]
+    },
+    "Tecotechno/Index - Tecotechno.md": {
+      "mtime": 1792987058994,
+      "updates": [
+        1792987058994
+      ]
+    },
+    "Tecotechno/Artikel Perbandingan AI.md": {
+      "mtime": 1792982171467,
+      "updates": [
+        1792982171467
+      ]
+    },
+    "Tecotechno/Artikel MTCNA Pillar.md": {
+      "mtime": 1792982171467,
+      "updates": [
+        1792982171467
+      ]
+    },
+    "Tecotechno/Artikel Linux dan Ricing.md": {
+      "mtime": 1792982171467,
+      "updates": [
+        1792982171467
+      ]
+    },
+    "Personal/Tabungan Rakit PC - Checklist.md": {
+      "mtime": 1792982171467,
+      "updates": [
+        1792982171467
+      ]
+    },
+    "Personal/Profil Prince.md": {
+      "mtime": 1792982171467,
+      "updates": [
+        1792982171467
+      ]
+    },
+    "Personal/Komunitas dan Portofolio.md": {
+      "mtime": 1792982171467,
+      "updates": [
+        1792982171467
+      ]
+    },
+    "Personal/Index - Personal.md": {
+      "mtime": 1792982171467,
+      "updates": [
+        1792982171467
+      ]
+    },
+    "Personal/Arah Karir.md": {
+      "mtime": 1792982171467,
+      "updates": [
+        1792982171467
+      ]
+    },
+    "Minecraft/SuperFantasyRPG-Final-Summary.md": {
+      "mtime": 1792982171467,
+      "updates": [
+        1792982171467
+      ]
+    },
+    "Minecraft/SuperFantasyRPG-Final-Build-Report.md": {
+      "mtime": 1792982171467,
+      "updates": [
+        1792982171467
+      ]
+    },
+    "Minecraft/SuperFantasyRPG - Questline Draft.md": {
+      "mtime": 1792982171467,
+      "updates": [
+        1792982171467
+      ]
+    },
+    "Minecraft/SuperFantasyRPG - Mod List & Konsep.md": {
+      "mtime": 1792982171466,
+      "updates": [
+        1792982171466
+      ]
+    },
+    "Minecraft/Performance Modpack.md": {
+      "mtime": 1792982171466,
+      "updates": [
+        1792982171466
+      ]
+    },
+    "Minecraft/Modpack Forge 1.20.1 Overview.md": {
+      "mtime": 1792982171466,
+      "updates": [
+        1792982171466
+      ]
+    },
+    "Minecraft/MLBB Argus.md": {
+      "mtime": 1792982171466,
+      "updates": [
+        1792982171466
+      ]
+    },
+    "Minecraft/Index - Minecraft.md": {
+      "mtime": 1792982171466,
+      "updates": [
+        1792982171466
+      ]
+    },
+    "Minecraft/Daftar Mod Lengkap.md": {
+      "mtime": 1792982171466,
+      "updates": [
+        1792982171466
+      ]
+    },
+    "Minecraft/Bug Fix Compatibility Mods.md": {
+      "mtime": 1792982171466,
+      "updates": [
+        1792982171466
+      ]
+    },
+    "MikroTik/Zabbix n8n Telegram Pipeline.md": {
+      "mtime": 1792982171466,
+      "updates": [
+        1792982171466
+      ]
+    },
+    "MikroTik/Status Check - Struktur WP dan HTTP 2026-10-01.md": {
+      "mtime": 1792982171465,
+      "updates": [
+        1792982171465
+      ]
+    },
+    "MikroTik/Project Baru - Web Integrasi MikroTik RADIUS Zabbix.md": {
+      "mtime": 1792982171465,
+      "updates": [
+        1792982171465
+      ]
+    },
+    "MikroTik/Perbandingan Local vs Remote 2026-10-01.md": {
+      "mtime": 1792982171465,
+      "updates": [
+        1792982171465
+      ]
+    },
+    "MikroTik/PKL Overview.md": {
+      "mtime": 1792982171465,
+      "updates": [
+        1792982171465
+      ]
+    },
+    "MikroTik/OJM Overview.md": {
+      "mtime": 1792982171465,
+      "updates": [
+        1792982171465
+      ]
+    },
+    "MikroTik/Masjidku WordPress Deployment.md": {
+      "mtime": 1792982171465,
+      "updates": [
+        1792982171465
+      ]
+    },
+    "MikroTik/Mapping DB Code ke Subdomain.md": {
+      "mtime": 1792982171465,
+      "updates": [
+        1792982171465
+      ]
+    },
+    "MikroTik/MTCNA Materi.md": {
+      "mtime": 1792982171465,
+      "updates": [
+        1792982171465
+      ]
+    },
+    "MikroTik/Log Kerja Hermes - web-monitor.md": {
+      "mtime": 1792982171465,
+      "updates": [
+        1792982171465
+      ]
+    },
+    "MikroTik/Kelemahan OJM.md": {
+      "mtime": 1792982171465,
+      "updates": [
+        1792982171465
+      ]
+    },
+    "MikroTik/Index - MikroTik.md": {
+      "mtime": 1792982171464,
+      "updates": [
+        1792982171464
+      ]
+    },
+    "MikroTik/GNS3 Lab OSPF 25 Router.md": {
+      "mtime": 1792982171464,
+      "updates": [
+        1792982171464
+      ]
+    },
+    "MikroTik/GNS3 CHR RouterOS Awal.md": {
+      "mtime": 1792982171464,
+      "updates": [
+        1792982171464
+      ]
+    },
+    "MikroTik/Error - could not find driver SQLite.md": {
+      "mtime": 1792982171464,
+      "updates": [
+        1792982171464
+      ]
+    },
+    "MikroTik/Error - ParseError Kutip Nyasar di String PHP.md": {
+      "mtime": 1792982171464,
+      "updates": [
+        1792982171464
+      ]
+    },
+    "MikroTik/Dokumentasi Instalasi web-monitor.md": {
+      "mtime": 1792982171464,
+      "updates": [
+        1792982171464
+      ]
+    },
+    "MikroTik/Checklist Migrasi Masjidku.md": {
+      "mtime": 1792982171464,
+      "updates": [
+        1792982171464
+      ]
+    },
+    "MikroTik/Checklist Import Masjid-Zip ke cPanel.md": {
+      "mtime": 1792982171463,
+      "updates": [
+        1792982171463
+      ]
+    },
+    "MikroTik/Checklist Domain Masjidku - Multi Subdomain.md": {
+      "mtime": 1792982171463,
+      "updates": [
+        1792982171463
+      ]
+    },
+    "Master Index.md": {
+      "mtime": 1792982171463,
+      "updates": [
+        1792982171463
+      ]
+    },
+    "Linux/ThinkPad T14 Gen 2 AMD.md": {
+      "mtime": 1792982171463,
+      "updates": [
+        1792982171463
+      ]
+    },
+    "Linux/Spek HP Pavilion g4.md": {
+      "mtime": 1792982171463,
+      "updates": [
+        1792982171463
+      ]
+    },
+    "Linux/SSH Hunter Tool.md": {
+      "mtime": 1792982171463,
+      "updates": [
+        1792982171463
+      ]
+    },
+    "Linux/NixOS Experiment.md": {
+      "mtime": 1792982171463,
+      "updates": [
+        1792982171463
+      ]
+    },
+    "Linux/Index - Linux.md": {
+      "mtime": 1792982171463,
+      "updates": [
+        1792982171463
+      ]
+    },
+    "Linux/Hyprland Config Lua.md": {
+      "mtime": 1792982171463,
+      "updates": [
+        1792982171463
+      ]
+    },
+    "Linux/Home Server Planning.md": {
+      "mtime": 1792982171463,
+      "updates": [
+        1792982171463
+      ]
+    },
+    "Linux/Hardware Repair SATA dan Repasting.md": {
+      "mtime": 1792982171463,
+      "updates": [
+        1792982171463
+      ]
+    },
+    "Linux/Diagnosis Freeze RAM dan USB SSD.md": {
+      "mtime": 1792982171463,
+      "updates": [
+        1792982171463
+      ]
+    },
+    "Linux/Constraint Intel HD 4000.md": {
+      "mtime": 1792982171462,
+      "updates": [
+        1792982171462
+      ]
+    },
+    "Linux/Benchmark Kernel Zen CachyOS Xanmod.md": {
+      "mtime": 1792982171462,
+      "updates": [
+        1792982171462
+      ]
+    },
+    "Linux/Bedrock Linux Lama.md": {
+      "mtime": 1792982171462,
+      "updates": [
+        1792982171462
+      ]
+    },
+    "Laptop-Battlefield/Timeline/LB-Work-Log.md": {
+      "mtime": 1792982171462,
+      "updates": [
+        1792982171462
+      ]
+    },
+    "Laptop-Battlefield/System/LB-Storage.md": {
+      "mtime": 1792982171462,
+      "updates": [
+        1792982171462
+      ]
+    },
+    "Laptop-Battlefield/System/LB-Operating-System.md": {
+      "mtime": 1792982171462,
+      "updates": [
+        1792982171462
+      ]
+    },
+    "Laptop-Battlefield/System/LB-Network.md": {
+      "mtime": 1792982171462,
+      "updates": [
+        1792982171462
+      ]
+    },
+    "Laptop-Battlefield/System/LB-Hardware.md": {
+      "mtime": 1792982171462,
+      "updates": [
+        1792982171462
+      ]
+    },
+    "Laptop-Battlefield/System/LB-Development-Toolchain.md": {
+      "mtime": 1792982171462,
+      "updates": [
+        1792982171462
+      ]
+    },
+    "Laptop-Battlefield/System/LB-AI-Agents.md": {
+      "mtime": 1792982171462,
+      "updates": [
+        1792982171462
+      ]
+    },
+    "Laptop-Battlefield/Projects/LB-Project-Web-Monitor.md": {
+      "mtime": 1792982171462,
+      "updates": [
+        1792982171462
+      ]
+    },
+    "Laptop-Battlefield/Projects/LB-Project-Monitoring-Laravel-Prototype.md": {
+      "mtime": 1792982171461,
+      "updates": [
+        1792982171461
+      ]
+    },
+    "Laptop-Battlefield/Projects/LB-Project-Monitoring-Laravel-1.md": {
+      "mtime": 1792982171461,
+      "updates": [
+        1792982171461
+      ]
+    },
+    "Laptop-Battlefield/Projects/LB-Project-Masjidku-WordPress.md": {
+      "mtime": 1792982171461,
+      "updates": [
+        1792982171461
+      ]
+    },
+    "Laptop-Battlefield/Projects/LB-Project-GNS3-Labs.md": {
+      "mtime": 1792982171461,
+      "updates": [
+        1792982171461
+      ]
+    },
+    "Laptop-Battlefield/LB-Tool-Obsidian.md": {
+      "mtime": 1792982171461,
+      "updates": [
+        1792982171461
+      ]
+    },
+    "Laptop-Battlefield/LB-Tool-Hermes.md": {
+      "mtime": 1792982171461,
+      "updates": [
+        1792982171461
+      ]
+    },
+    "Laptop-Battlefield/LB-Tool-Docker.md": {
+      "mtime": 1792982171461,
+      "updates": [
+        1792982171461
+      ]
+    },
+    "Laptop-Battlefield/LB-Tool-CodeGraph.md": {
+      "mtime": 1792982171460,
+      "updates": [
+        1792982171460
+      ]
+    },
+    "Laptop-Battlefield/LB-Service-Zabbix.md": {
+      "mtime": 1792982171460,
+      "updates": [
+        1792982171460
+      ]
+    },
+    "Laptop-Battlefield/LB-Service-RouterOS.md": {
+      "mtime": 1792982171460,
+      "updates": [
+        1792982171460
+      ]
+    },
+    "Laptop-Battlefield/LB-Service-PostgreSQL.md": {
+      "mtime": 1792982171460,
+      "updates": [
+        1792982171460
+      ]
+    },
+    "Laptop-Battlefield/LB-Service-MariaDB.md": {
+      "mtime": 1792982171460,
+      "updates": [
+        1792982171460
+      ]
+    },
+    "Laptop-Battlefield/LB-Refresh-Playbook.md": {
+      "mtime": 1792982171460,
+      "updates": [
+        1792982171460
+      ]
+    },
+    "Laptop-Battlefield/LB-Project-MCC.md": {
+      "mtime": 1792982171460,
+      "updates": [
+        1792982171460
+      ]
+    },
+    "Laptop-Battlefield/LB-Open-Questions.md": {
+      "mtime": 1792982171460,
+      "updates": [
+        1792982171460
+      ]
+    },
+    "Laptop-Battlefield/LB-AI-Handoff.md": {
+      "mtime": 1792982171460,
+      "updates": [
+        1792982171460
+      ]
+    },
+    "Laptop-Battlefield/Incidents/LB-Incident-SQLite-Driver-Missing.md": {
+      "mtime": 1792982171460,
+      "updates": [
+        1792982171460
+      ]
+    },
+    "Laptop-Battlefield/Incidents/LB-Incident-Freeze-RAM-USB-SSD.md": {
+      "mtime": 1792982171459,
+      "updates": [
+        1792982171459
+      ]
+    },
+    "Laptop-Battlefield/Home-Laptop-Battlefield.md": {
+      "mtime": 1792982171459,
+      "updates": [
+        1792982171459
+      ]
+    },
+    "Laptop-Battlefield/Graphs/LB-Graph-Service-Dependencies.md": {
+      "mtime": 1792982171459,
+      "updates": [
+        1792982171459
+      ]
+    },
+    "Laptop-Battlefield/Graphs/LB-Graph-Project-Toolchain.md": {
+      "mtime": 1792982171459,
+      "updates": [
+        1792982171459
+      ]
+    },
+    "Laptop-Battlefield/Graphs/LB-Graph-Overview.md": {
+      "mtime": 1792982171459,
+      "updates": [
+        1792982171459
+      ]
+    },
+    "Index.md": {
+      "mtime": 1792982171459,
+      "updates": [
+        1792982171459
+      ]
+    },
+    "Cybersecurity/W1seGuy.md": {
+      "mtime": 1792982171459,
+      "updates": [
+        1792982171459
+      ]
+    },
+    "Cybersecurity/Tool Chaining Alur Umum.md": {
+      "mtime": 1792982171459,
+      "updates": [
+        1792982171459
+      ]
+    },
+    "Cybersecurity/Relevant.md": {
+      "mtime": 1792982171459,
+      "updates": [
+        1792982171459
+      ]
+    },
+    "Cybersecurity/Rangkuman Pentesting.md": {
+      "mtime": 1792982171459,
+      "updates": [
+        1792982171459
+      ]
+    },
+    "Cybersecurity/Mindset Pentesting.md": {
+      "mtime": 1792982171459,
+      "updates": [
+        1792982171459
+      ]
+    },
+    "Cybersecurity/Index - Cybersecurity.md": {
+      "mtime": 1792982171459,
+      "updates": [
+        1792982171459
+      ]
+    },
+    "Cybersecurity/HTB Archetype.md": {
+      "mtime": 1792982171458,
+      "updates": [
+        1792982171458
+      ]
+    },
+    "Cybersecurity/Gap Belajar Pentesting.md": {
+      "mtime": 1792982171458,
+      "updates": [
+        1792982171458
+      ]
+    },
+    "Cybersecurity/BypassDisableFunctions.md": {
+      "mtime": 1792982171458,
+      "updates": [
+        1792982171458
+      ]
+    },
+    "Cybersecurity/Beach Bar.md": {
+      "mtime": 1792982171457,
+      "updates": [
+        1792982171457
+      ]
+    },
+    "Checklist Import Masjid-Zip ke cPanel.md": {
+      "mtime": 1792982171457,
+      "updates": [
+        1792982171457
+      ]
+    }
+  }
+}

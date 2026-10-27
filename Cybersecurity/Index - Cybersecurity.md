@@ -6,6 +6,9 @@
 - [[Mindset Pentesting]]
 - [[Tool Chaining Alur Umum]]
 
+## 🛡️ Kerentanan & Riset
+- [[PHP2Shell - Dua CVE Oktober 2026]]
+
 ## 🗂️ Box / Lab
 - [[W1seGuy]]
 - [[Beach Bar]]

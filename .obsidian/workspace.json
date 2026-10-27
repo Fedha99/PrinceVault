@@ -4,31 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "9e4de94fd437b9ee",
+        "id": "717613f807a46738",
         "type": "tabs",
         "children": [
           {
-            "id": "f9b212d1c4f29585",
+            "id": "15cb05e49c4adeac",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "rho-network",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "globe",
+              "title": "Rho Network"
             }
           },
           {
-            "id": "ce45862586149b6c",
+            "id": "43f2e80f265486da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MikroTik/Project Baru - Web Integrasi MikroTik RADIUS Zabbix.md",
+                "file": "Checklist Import Masjid-Zip ke cPanel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project Baru - Web Integrasi MikroTik RADIUS Zabbix"
+              "title": "Checklist Import Masjid-Zip ke cPanel"
             }
           }
         ],
@@ -179,9 +179,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "caa97be2f2012cb6",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -196,47 +206,56 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "rho-network:Open Rho Network": false,
+      "stellar-graph:Open 3D graph": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false
     }
   },
-  "active": "ce45862586149b6c",
+  "active": "90c66305d1278fa2",
   "lastOpenFiles": [
-    "Laptop-Battlefield/LB-Project-MCC.md",
-    "Laptop-Battlefield/LB-Service-RouterOS.md",
-    "Laptop-Battlefield/LB-Service-Zabbix.md",
-    "Laptop-Battlefield/LB-Service-MariaDB.md",
-    "Laptop-Battlefield/LB-Service-PostgreSQL.md",
-    "Laptop-Battlefield/LB-Tool-Obsidian.md",
-    "Laptop-Battlefield/LB-Tool-Hermes.md",
-    "Laptop-Battlefield/LB-Tool-CodeGraph.md",
-    "Laptop-Battlefield/LB-Tool-Docker.md",
-    "Laptop-Battlefield/Graphs/LB-Graph-Project-Toolchain.md",
-    "Laptop-Battlefield/Graphs/LB-Graph-Service-Dependencies.md",
-    "Laptop-Battlefield/Graphs/LB-Graph-Overview.md",
+    "Cybersecurity/PHP2Shell - Dua CVE Oktober 2026.md",
+    "Cybersecurity/assets/PHP2Shell/session_upload.svg",
+    "Cybersecurity/assets/PHP2Shell/jmp.svg",
+    "Cybersecurity/assets/PHP2Shell/breach_shell.svg",
+    "Cybersecurity/assets/PHP2Shell/breach_memory.svg",
+    "Cybersecurity/assets/PHP2Shell",
+    "Cybersecurity/assets",
+    "Tecotechno/Knowledge/TT - Laptop Gaming AI 6 Aspek.md",
+    "Tecotechno/Knowledge/TT - Hash Encryption Encoding.md",
+    "Tecotechno/Knowledge/TT - Laptop Linux 7 Rekomendasi.md",
+    "Tecotechno/Knowledge/TT - MCP Server 7 Fakta.md",
+    "Tecotechno/Knowledge/TT - Perintah Dasar Linux 15.md",
+    "Tecotechno/Knowledge/TT - Coding Pemula 7 Fondasi.md",
+    "Tecotechno/Knowledge/TT - 10 AI Agents Gratis.md",
+    "Tecotechno/Knowledge/TT - Browser Hemat RAM 10 Pilihan.md",
+    "Tecotechno/Knowledge/TT - AI Coding Shader Benchmark.md",
+    "Tecotechno/Knowledge/TT - BlackArch Repo Fix 5 Langkah.md",
+    "Tecotechno/Knowledge/Index - Tecotechno Knowledge.md",
+    "Tecotechno/Knowledge/Konsep/VPCS.md",
+    "Tecotechno/Knowledge/Konsep/Dynamips.md",
+    "Tecotechno/Knowledge/Konsep/Low-Level Discovery.md",
+    "Tecotechno/Knowledge/Konsep/QEMU.md",
+    "Tecotechno/Knowledge/Konsep/KVM.md",
+    "Tecotechno/Knowledge/Konsep/Credential Stuffing.md",
+    "Tecotechno/Knowledge/Konsep/Passkeys.md",
+    "Tecotechno/Knowledge/Konsep/Zero Trust.md",
+    "Tecotechno/Knowledge/Konsep/Link State.md",
+    "Tecotechno/Knowledge/Konsep/Distance Vector.md",
+    "Tecotechno/Knowledge/Konsep/OSI vs TCP-IP.md",
+    "Tecotechno/Knowledge/Konsep/The Dude.md",
+    "Tecotechno/Knowledge/Konsep/Wine.md",
+    "Tecotechno/Knowledge/Konsep/NTFS Permissions.md",
+    "Tecotechno/Knowledge/Konsep",
+    "Tecotechno/Knowledge",
     "Laptop-Battlefield/Graphs",
-    "Laptop-Battlefield/LB-Open-Questions.md",
-    "Laptop-Battlefield/LB-Refresh-Playbook.md",
-    "Laptop-Battlefield/LB-AI-Handoff.md",
-    "Laptop-Battlefield/Incidents/LB-Incident-SQLite-Driver-Missing.md",
-    "Laptop-Battlefield/Incidents/LB-Incident-Freeze-RAM-USB-SSD.md",
     "Laptop-Battlefield/Incidents",
-    "Laptop-Battlefield/Timeline/LB-Work-Log.md",
     "Laptop-Battlefield/Timeline",
-    "Laptop-Battlefield/Projects/LB-Project-Masjidku-WordPress.md",
-    "Laptop-Battlefield/Projects/LB-Project-GNS3-Labs.md",
-    "Laptop-Battlefield/Projects/LB-Project-Web-Monitor.md",
-    "Laptop-Battlefield/Projects/LB-Project-Monitoring-Laravel-Prototype.md",
-    "Laptop-Battlefield/Projects/LB-Project-Monitoring-Laravel-1.md",
     "Laptop-Battlefield/Projects",
-    "Laptop-Battlefield/System/LB-AI-Agents.md",
-    "Laptop-Battlefield/System/LB-Development-Toolchain.md",
-    "Laptop-Battlefield/System/LB-Network.md",
     "Laptop-Battlefield/System",
     "Laptop-Battlefield",
-    "Untitled.canvas",
-    "MikroTik/Mapping DB Code ke Subdomain.md.eaf3ca128a19e82654a7ecefffb0aca2.tmp",
-    "MikroTik/Checklist Domain Masjidku - Multi Subdomain.md-backup",
-    "MikroTik/Checklist Domain Masjidku - Multi Subdomain.md.bd1b2bc4f4bc89c3b2ead5d9efa861e3.tmp",
-    "Minecraft/SuperFantasyRPG-Final-KnowledgeGraph.json"
+    "Untitled.canvas"
   ]
 }

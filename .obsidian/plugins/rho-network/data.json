@@ -1,0 +1,23 @@
+{
+  "log": false,
+  "groupBy": "auto",
+  "theme": "dusk",
+  "darkness": 50,
+  "ringSpacing": 100,
+  "stars": 100,
+  "glow": 100,
+  "spin": 100,
+  "intro": true,
+  "quality": "high",
+  "novas": "rare",
+  "blackHole": true,
+  "exclude": [],
+  "ringNames": true,
+  "nearNames": false,
+  "belt2": true,
+  "planetSize": 100,
+  "links": 5,
+  "ringTilt": 100,
+  "planetColors": "halloween",
+  "settingsV": 3
+}

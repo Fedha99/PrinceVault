@@ -1,0 +1,135 @@
+/* Vault Galaxy 1.1.2 */
+
+/* Both selectors out-specify Obsidian's default .view-content padding, so the
+   canvas sits flush without !important. */
+.workspace-leaf-content[data-type='vault-galaxy-view'] .view-content,
+.view-content.vault-galaxy-root {
+  padding: 0;
+}
+
+.vault-galaxy-root {
+  overflow: hidden;
+  position: relative;
+  background: #04050d;
+}
+
+.vg-canvas {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.vg-controls {
+  position: absolute;
+  top: 10px;
+  right: 12px;
+  display: flex;
+  gap: 6px;
+  z-index: 10;
+}
+
+.vg-controls button {
+  background: rgba(20, 26, 48, 0.75);
+  color: #aebedd;
+  border: 1px solid rgba(120, 140, 190, 0.25);
+  border-radius: 6px;
+  padding: 3px 10px;
+  font-size: 12px;
+  cursor: pointer;
+  box-shadow: none;
+}
+
+.vg-controls button:hover {
+  background: rgba(40, 50, 85, 0.9);
+  color: #e6eeff;
+}
+
+.vg-panel {
+  position: absolute;
+  top: 44px;
+  right: 12px;
+  width: 220px;
+  max-height: calc(100% - 70px);
+  overflow-y: auto;
+  background: rgba(12, 16, 34, 0.92);
+  border: 1px solid rgba(120, 140, 190, 0.25);
+  border-radius: 8px;
+  padding: 10px 12px;
+  z-index: 11;
+  display: none;
+}
+
+.vg-panel.vg-open {
+  display: block;
+}
+
+.vg-sec {
+  color: #7f93bd;
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin: 10px 0 4px;
+}
+
+.vg-sec:first-child {
+  margin-top: 0;
+}
+
+.vg-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin: 4px 0;
+}
+
+.vg-row span {
+  color: #aebedd;
+  font-size: 11px;
+  white-space: nowrap;
+}
+
+.vg-row input[type="range"] {
+  width: 110px;
+}
+
+.vg-row select {
+  background: rgba(20, 26, 48, 0.75);
+  color: #aebedd;
+  border: 1px solid rgba(120, 140, 190, 0.25);
+  border-radius: 6px;
+  font-size: 11px;
+  padding: 2px 4px;
+  max-width: 130px;
+}
+
+.vg-row input[type="color"] {
+  width: 34px;
+  height: 20px;
+  padding: 0;
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+.vg-reset {
+  margin-top: 10px;
+  width: 100%;
+  background: rgba(40, 50, 85, 0.6);
+  color: #aebedd;
+  border: 1px solid rgba(120, 140, 190, 0.25);
+  border-radius: 6px;
+  padding: 4px;
+  font-size: 11px;
+  cursor: pointer;
+}
+
+.vg-status {
+  position: absolute;
+  bottom: 8px;
+  left: 12px;
+  font-size: 11px;
+  color: rgba(174, 190, 221, 0.55);
+  pointer-events: none;
+  z-index: 10;
+}
